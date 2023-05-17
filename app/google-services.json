@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67655569208",
+    "project_id": "dummyzon-b8043",
+    "storage_bucket": "dummyzon-b8043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67655569208:android:b23d843652683e19047bcd",
+        "android_client_info": {
+          "package_name": "com.example.dummyzon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67655569208-3o73g69ogd1qopn3gs8hb3hbgpfj7hl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl8-tDn92RgsN4j2vEsK3Achm9Vo6ykLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67655569208-3o73g69ogd1qopn3gs8hb3hbgpfj7hl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

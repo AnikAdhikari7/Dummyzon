@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Dummyzon</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="welcome_nsign_up_to_continue">Welcome, \nSign Up to continue</string>
+    <string name="welcome_nsign_in_to_continue">Welcome, \nSign In to continue</string>
+    <string name="dev_name">https//github.com/AnikAdhikari7</string>
+    <string name="product_title">Product Title</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_brand">Product Brand</string>
+    <string name="search">Search</string>
+    <string name="categories">Categories</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
